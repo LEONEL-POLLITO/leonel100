@@ -5,11 +5,11 @@ let handler = async m => m.reply(`
 
 COMO CREAR ESTE BOT:
 
-https://youtu.be/chMc57gjmkI
+##############
 
 𝙈𝙮 𝘾𝙝𝙖𝙣𝙚𝙡:
 
-https://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA
+###$÷%_€€€&&&&€&&
                                         
 `.trim()) 
 handler.help = ['samu']
